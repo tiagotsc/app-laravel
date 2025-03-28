@@ -1,0 +1,13 @@
+{
+    "name": "Deploy",
+    "alias": "deploy",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Deploy\\Providers\\DeployServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

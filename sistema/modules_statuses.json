@@ -1,0 +1,22 @@
+{
+    "Novo": true,
+    "Teste": true,
+    "Teste2": true,
+    "Deploy": true,
+    "Document": true,
+    "Mail": false,
+    "Register": true,
+    "Srt": true,
+    "Credentials": false,
+    "StockTrade": false,
+    "Dashboard": false,
+    "Prepayment": false,
+    "Doc": false,
+    "RestitutionValue": false,
+    "SpotPurchase": false,
+    "ContestationFTTH": true,
+    "ContestationFtth": false,
+    "Home": true,
+    "Crediv": false,
+    "CancelamentoR1": false
+}

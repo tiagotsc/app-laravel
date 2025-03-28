@@ -1,0 +1,6 @@
+lote_id;registro_id;conta_siebel;tracking_id;nome_cliente;total_prepagamento;num_documento_cliente;data_efetivacao;motivo;usuario;observacoes;departamento;np_observacao;np_apoio;cenarios;score;Data da Distribuição;Auditor;Data Análise;Procedente;Correção;Motivo;Obervação
+1;4;43343;555;fulano;2344.89;324234234;04/12/2022;bla bla;pessoa1;obs1;rh;ddd;23;qqqq;1.0;23/12/2022;aud1;19/12/2022;SIM;NÃO;mot1;observ1
+1;5;324234;778;ciclano;43455.78;3242434;05/12/2022;bla bla 2;pessoa2;obs2;ti;ffff;45;eeee;1.1;25/12/2022;aud2;18/12/2022;NÃO;SIM;mot2;observ2
+2;2466;324234;778;ciclano;43455.78;3242434;05/12/2022;bla bla 2;pessoa2;obs2;ti;ffff;45;eeee;1.1;25/12/2022;aud2;18/12/2022;SIM;SIM;mot2;observ2
+1;6;324234;778;ciclano;43455.78;3242434;05/12/2022;bla bla 2;pessoa2;obs2;ti;ffff;45;eeee;1.1;25/12/2022;aud2;18/12/2022;NÃO;NÃO;mot2;observ2
+3;4031;324234;778;ciclano;43455.78;3242434;05/12/2022;bla bla 2;pessoa2;obs2;ti;ffff;45;eeee;1.1;25/12/2022;aud2;18/12/2022;NÃO;SIM;mot2;observ2

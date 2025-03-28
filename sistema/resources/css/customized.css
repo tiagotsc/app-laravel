@@ -1,0 +1,115 @@
+.logo-style{
+    width:50px;
+}
+/*Campos obrigatórios*/
+.mandatory{
+    color:red;
+    margin-left: 3px;
+}
+/*campos que apresentam erro*/
+.error{
+    text-align: left;
+	color: #721c24;
+    background-color: #f8d7da;
+    border-color: #f5c6cb;
+	position: relative;
+    padding: .20rem 1rem;
+    margin-bottom: 0.2rem;
+    border: 1px solid transparent;
+    border-radius: .25rem;
+	width: 100%;
+	display: block;
+}
+
+/*div pai do log */
+#div_logo{
+    margin-bottom:25px;
+}
+
+/* img log */
+#img_logo{
+    width:50px; 
+    margin-right:10px;
+}
+
+.color-white{
+    color: white !important;
+}
+
+.color-blue{
+    color: blue !important;
+}
+
+.color-red{
+    color: red !important;
+}
+
+.row-table-ok{
+    color: blue !important;
+}
+
+.row-table-warning{
+    color: darkgoldenrod !important;
+}
+
+.row-table-error{
+    color: red !important;
+}
+
+.cursor_help{
+    cursor: help;
+    margin-left: 5px;
+    color: #5b99ea !important;
+}
+
+.form-control, .form-select, span.selection>.select2-selection{
+    border-color: #8bc34a;
+}
+
+/* backgroud na cor branca*/
+.bg-white{
+    background-color: white;
+}
+
+/* Fonte bem pequena */
+.small-font{
+    font-size: 0.80rem !important;
+}
+
+/* Zera a porcetagem da barra de progresso do bootstrap */
+.width-zero-percentage{
+    width: 0%;
+}
+
+/* Área ativa na função arrastar e soltar */
+.drag_drop_active {
+    border: 0.2em dashed #025bee;
+}
+
+/* Área do arrastar e soltar */
+#drag_drop_area{
+    background-color: #DCDCDC;
+}
+
+/* Label da área do arrastar e soltar */
+#drag_drop_label{
+    background-color: #008B8B; 
+    cursor: pointer;
+}
+
+/* Boostrap Tooltip largura */
+.tooltip-inner {
+    max-width: 700px;
+}
+
+.cursor-pointer{
+    cursor: pointer !important;
+}
+
+.form-select{
+    background-image: url("/assets/plugins/bootstrap-icons/caret-down-fill.svg") !important
+}
+
+.form-check-input:checked{
+    background-image: url("/assets/plugins/bootstrap-icons/check.svg") !important
+}
