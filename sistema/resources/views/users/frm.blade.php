@@ -26,7 +26,7 @@
     </div>
 </div>
 <div x-data="managerFrm" x-init="loadData" class="container app-card app-card-settings shadow-sm p-4">
-    
+
     {!! Form::open(['id' => 'frm', 'method' => $method, 'route' => [$entity.(($id != '')? '.update':'.store'),$id]]) !!}
     <div class="row">
         <div class="form-group col-md-2">
@@ -71,9 +71,9 @@
                     <label for="allChecked"><b>Todos</b></label>
                 </li>
                 <!-- <template x-for="rol in filteredIRoles">
-                    <li x-show="rol.show" class="list-group-item"> 
+                    <li x-show="rol.show" class="list-group-item">
                             <input type="checkbox" @click="selected(rol.name)" x-bind:id="`role[${rol.name}]`" class="input_checkbox"
-                            name="role[`${rol.name}`]" x-bind:value="`${rol.name}`" 
+                            name="role[`${rol.name}`]" x-bind:value="`${rol.name}`"
                             x-bind:checked="selectall || (selectedRoles.indexOf(rol.name) >= 0 && clicked == false ? true : false)">
                         <label x-text="rol.name" x-bind:for="`role[${rol.name}]`"></label>
                     </li>
