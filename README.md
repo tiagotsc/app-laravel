@@ -93,7 +93,7 @@ Criar uma aplicação Laravel para gerenciar usuários e seus perfis, onde cada 
 ### Aplicação Laravel que contém o gerenciamento de usuários, perfis e permissões
 #### A aplicação foi feita toda em Laravel 8, pois já tinha algo semi-pronto e no front, na camada de view foi utilizados o framework javascript AlpineJS já com a versão para SCP para dar mais segurança a aplicação.
 
-#### AlpineJS é um framework reativo simplista que em alguns cenários pode ser uma boa opção para que está com pressa e não deseja fazer um frontend muito complexo, sem falar que ele é uma boa opção em relação ao antigo JQuery.
+#### AlpineJS é um framework reativo javascript simplista que em alguns cenários pode ser uma boa opção para quem está com pressa e não deseja fazer um frontend muito complexo, sem falar que ele é uma boa opção em relação ao antigo JQuery.
 
 ### **Observação**
 - É recomendável ter o docker rodando na máquina para executar os passos abaixo
