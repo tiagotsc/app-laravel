@@ -90,8 +90,15 @@ Criar uma aplicação Laravel para gerenciar usuários e seus perfis, onde cada 
 
 ## **PASSO A PASSO RODAR APLICAÇÃO**
 
+### Aplicação Laravel que possuí o gerenciamento de usuários, perfis e permissões
+
 ### **Observação**
 - É recomendável ter o docker rodando na máquina para executar os passos abaixo
+
+#### Fazendo uso do terminal, clone o projeto:
+```powershell
+git clone https://github.com/tiagotsc/app-laravel.git
+```   
 
 #### Na pasta raiz (tem as pastas phpdocker, sistema e arquivos docker-compose.yml e README.md), rode:
 ```powershell
